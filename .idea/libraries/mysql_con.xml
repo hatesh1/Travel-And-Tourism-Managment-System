@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-con">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/mysql-con.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
